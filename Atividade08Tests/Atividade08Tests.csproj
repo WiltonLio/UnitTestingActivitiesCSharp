@@ -19,12 +19,12 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-    <PackageReference Include="NSubstitute" Version="5.1.0" />
+        <PackageReference Include="NSubstitute" Version="5.1.0" />
 
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Atividade07\Atividade07.csproj" />
+    <ProjectReference Include="..\Atividade08\Atividade08.csproj" />
   </ItemGroup>
 
 </Project>
